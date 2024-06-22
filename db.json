@@ -1,0 +1,161 @@
+{
+  "jobRoles": [
+    {
+      "job_id": "MM001",
+      "title": "Marketing Manager",
+      "department": "Marketing",
+      "location": "Remote",
+      "stipend": "Paid",
+      "job_duration": "Full-time",
+      "description": "Seeking a talented marketing manager to lead our marketing campaigns. Responsibilities include developing strategies, managing budgets, and overseeing the execution of marketing initiatives.",
+      "tools": [
+        "Google Analytics",
+        "Mailchimp",
+        "HubSpot",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "job_id": "GD001",
+      "title": "Graphic Designer",
+      "department": "Creative",
+      "location": "Remote",
+      "stipend": "Paid",
+      "job_duration": "Full-time",
+      "description": "Looking for a creative graphic designer to produce engaging visuals. Responsibilities include designing graphics for websites, marketing materials, and social media.",
+      "tools": [
+        "Adobe Photoshop",
+        "Canva",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Sketch"
+      ]
+    },
+    {
+      "job_id": "CW001",
+      "title": "Content Writer",
+      "department": "Marketing",
+      "location": "Remote",
+      "stipend": "Paid",
+      "job_duration": "Full-time",
+      "description": "Join our content team to create compelling and SEO-friendly content. Responsibilities include writing articles, blogs, social media posts, and website content.",
+      "tools": [
+        "Grammarly",
+        "WordPress",
+        "SEO Tools (e.g., SEMrush, Ahrefs)"
+      ]
+    },
+    {
+      "job_id": "VE001",
+      "title": "Video Editor",
+      "department": "Creative",
+      "location": "Remote",
+      "stipend": "Paid",
+      "job_duration": "Full-time",
+      "description": "Looking for a skilled video editor to edit and produce high-quality videos. Responsibilities include editing footage, adding effects, and ensuring video content meets brand guidelines.",
+      "tools": [
+        "Adobe Premiere Pro",
+        "Final Cut Pro",
+        "DaVinci Resolve",
+        "Adobe After Effects"
+      ]
+    },
+    {
+      "job_id": "BD001",
+      "title": "Backend Developer",
+      "department": "Engineering",
+      "location": "Remote",
+      "stipend": "Paid",
+      "job_duration": "Full-time",
+      "description": "Seeking an experienced backend developer to build scalable backend systems. Responsibilities include developing APIs, optimizing databases, and ensuring server-side security.",
+      "tools": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "job_id": "FD001",
+      "title": "Front-end Developer",
+      "department": "Engineering",
+      "location": "Remote",
+      "stipend": "Paid",
+      "job_duration": "Full-time",
+      "description": "Join our front-end team to develop user-friendly interfaces. Responsibilities include coding in HTML, CSS, and JavaScript, and collaborating with UX/UI designers.",
+      "tools": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React.js",
+        "Angular",
+        "Vue.js"
+      ]
+    },
+    {
+      "job_id": "FL001",
+      "title": "Flutter Developer",
+      "department": "Engineering",
+      "location": "Remote",
+      "stipend": "Paid",
+      "job_duration": "Full-time",
+      "description": "Looking for a Flutter developer to build cross-platform mobile applications. Responsibilities include developing UI components, integrating APIs, and ensuring app performance.",
+      "tools": [
+        "Flutter SDK",
+        "Dart Programming Language",
+        "Firebase",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "job_id": "RN001",
+      "title": "React Native Developer",
+      "department": "Engineering",
+      "location": "Remote",
+      "stipend": "Paid",
+      "job_duration": "Full-time",
+      "description": "Seeking a React Native developer to develop mobile applications for iOS and Android platforms. Responsibilities include building reusable components, debugging issues, and optimizing app performance.",
+      "tools": [
+        "React Native",
+        "JavaScript",
+        "Redux",
+        "TypeScript"
+      ]
+    },
+    {
+      "job_id": "DA001",
+      "title": "Data Analyst",
+      "department": "Data",
+      "location": "Remote",
+      "stipend": "Paid",
+      "job_duration": "Full-time",
+      "description": "Join our data analytics team to analyze complex data sets. Responsibilities include interpreting data, creating visualizations, and providing actionable insights to stakeholders.",
+      "tools": [
+        "Python",
+        "R",
+        "SQL",
+        "Tableau",
+        "Power BI"
+      ]
+    },
+    {
+      "job_id": "WD001",
+      "title": "Web Developer",
+      "department": "Engineering",
+      "location": "Remote",
+      "stipend": "Paid",
+      "job_duration": "Full-time",
+      "description": "Looking for a skilled web developer to build responsive websites. Responsibilities include coding in HTML, CSS, and JavaScript frameworks, and optimizing website performance.",
+      "tools": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "React.js",
+        "Vue.js",
+        "Angular"
+      ]
+    }
+  ]
+}
